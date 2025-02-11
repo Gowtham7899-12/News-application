@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.card-img-top
+{
+  height: 250px ;
+}
+
+#pn:hover
+{
+  background-color: white;
+  color: black;
+  outline: black;
+}
+
+#spinner
+{
+  width: 50px;
+  height: 50px;
+}
+
+#newscomp
+{
+  margin-top: 90px;
+  
+}
